@@ -6,3 +6,6 @@ Features:
 - Operating System
 - OS Version
 - Python Version
+- Memory usage
+- Disk usage
+- System uptime
